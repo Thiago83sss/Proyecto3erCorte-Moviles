@@ -62,7 +62,7 @@ vercel --prod
 ```
 
 - Repositorio: <https://github.com/Thiago83sss/Proyecto3erCorte-Moviles.git>
-- App en línea: <URL_DE_VERCEL>
+- App en línea: <https://proyecto3ercorte-moviles.vercel.app/>
 
 
 ## Autores
