@@ -63,8 +63,9 @@ vercel --prod
 
 - Repositorio: <https://github.com/Thiago83sss/Proyecto3erCorte-Moviles.git>
 - App en línea: <https://proyecto3ercorte-moviles.vercel.app/>
-
+-Figma: <https://www.figma.com/design/K2N0l7IfTEVXyO47dL7DtD/Untitled?node-id=0-1&t=ChIGF9X5pQsyUDp6-1>
 
 ## Autores
 
-<Ivan Romero, Danna González> / <Universidad de San Buenaventura>
+<Ivan Romero, Danna González> / 
+<Universidad de San Buenaventura>
