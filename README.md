@@ -67,4 +67,4 @@ vercel --prod
 
 ## Autores
 
-<Ivan Romero, Danna González> | <Universidad de San Buenaventura>
+<Ivan Romero, Danna González> / <Universidad de San Buenaventura>

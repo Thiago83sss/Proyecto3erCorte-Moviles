@@ -18,7 +18,6 @@ class PokeApiService {
     return Pokemon.fromJson(json.decode(res.body) as Map<String, dynamic>);
   }
 
-  /// Función random: Pokémon aleatorio.
   Future<Pokemon> getRandom() => getPokemon(_random.nextInt(_maxId) + 1);
 
   Future<List<PokemonSummary>> getList({int limit = 151}) async {
